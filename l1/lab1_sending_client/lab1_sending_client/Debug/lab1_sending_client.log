@@ -1,0 +1,11 @@
+﻿  lab1_sending_client.cpp
+D:\study\4_course_1_sem\network_app\lab1_sending_client\lab1_sending_client\lab1_sending_client.cpp(19,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\study\4_course_1_sem\network_app\lab1_sending_client\lab1_sending_client\lab1_sending_client.cpp(38,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\study\4_course_1_sem\network_app\lab1_sending_client\lab1_sending_client\lab1_sending_client.cpp(53,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\study\4_course_1_sem\network_app\lab1_sending_client\lab1_sending_client\lab1_sending_client.cpp(131,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\study\4_course_1_sem\network_app\lab1_sending_client\lab1_sending_client\lab1_sending_client.cpp(161,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\study\4_course_1_sem\network_app\lab1_sending_client\lab1_sending_client\lab1_sending_client.cpp(188,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\study\4_course_1_sem\network_app\lab1_sending_client\lab1_sending_client\lab1_sending_client.cpp(188,50): warning C4018: <: несоответствие типов со знаком и без знака
+D:\study\4_course_1_sem\network_app\lab1_sending_client\lab1_sending_client\lab1_sending_client.cpp(198,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\study\4_course_1_sem\network_app\lab1_sending_client\lab1_sending_client\lab1_sending_client.cpp(202,23): warning C4018: <: несоответствие типов со знаком и без знака
+  lab1_sending_client.vcxproj -> D:\study\4_course_1_sem\network_app\lab1_sending_client\Debug\lab1_sending_client.exe

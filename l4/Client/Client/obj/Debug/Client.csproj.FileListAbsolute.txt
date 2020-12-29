@@ -1,0 +1,21 @@
+E:\Study\Network apps programming\lab5\Client\Client\bin\Debug\Client.exe.config
+E:\Study\Network apps programming\lab5\Client\Client\bin\Debug\Client.exe
+E:\Study\Network apps programming\lab5\Client\Client\bin\Debug\Client.pdb
+E:\Study\Network apps programming\lab5\Client\Client\obj\Debug\Client.csprojAssemblyReference.cache
+E:\Study\Network apps programming\lab5\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\Study\Network apps programming\lab5\Client\Client\obj\Debug\Client.exe
+E:\Study\Network apps programming\lab5\Client\Client\obj\Debug\Client.pdb
+e:\Study\van\lab5\Client\Client\bin\Debug\Client.exe.config
+e:\Study\van\lab5\Client\Client\bin\Debug\Client.exe
+e:\Study\van\lab5\Client\Client\bin\Debug\Client.pdb
+e:\Study\van\lab5\Client\Client\obj\Debug\Client.csprojAssemblyReference.cache
+e:\Study\van\lab5\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+e:\Study\van\lab5\Client\Client\obj\Debug\Client.exe
+e:\Study\van\lab5\Client\Client\obj\Debug\Client.pdb
+D:\study\4_course_1_sem\network_app\l4\Client\Client\bin\Debug\Client.exe.config
+D:\study\4_course_1_sem\network_app\l4\Client\Client\bin\Debug\Client.exe
+D:\study\4_course_1_sem\network_app\l4\Client\Client\bin\Debug\Client.pdb
+D:\study\4_course_1_sem\network_app\l4\Client\Client\obj\Debug\Client.csprojAssemblyReference.cache
+D:\study\4_course_1_sem\network_app\l4\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\study\4_course_1_sem\network_app\l4\Client\Client\obj\Debug\Client.exe
+D:\study\4_course_1_sem\network_app\l4\Client\Client\obj\Debug\Client.pdb

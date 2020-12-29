@@ -1,0 +1,3 @@
+﻿  ClientTcp.cpp
+D:\study\4_course_1_sem\network_app\l3\ClientTcp\ClientTcp\ClientTcp.cpp(70,20): warning C4101: s2: неиспользованная локальная переменная
+  ClientTcp.vcxproj -> D:\study\4_course_1_sem\network_app\l3\ClientTcp\Debug\ClientTcp.exe

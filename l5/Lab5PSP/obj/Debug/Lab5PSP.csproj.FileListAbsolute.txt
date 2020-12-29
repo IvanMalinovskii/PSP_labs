@@ -1,0 +1,10 @@
+D:\study\4_course_1_sem\network_app\l5\Lab5PSP\bin\Debug\Resources\index.html
+D:\study\4_course_1_sem\network_app\l5\Lab5PSP\bin\Debug\Resources\script.js
+D:\study\4_course_1_sem\network_app\l5\Lab5PSP\bin\Debug\Resources\style.css
+D:\study\4_course_1_sem\network_app\l5\Lab5PSP\bin\Debug\Lab5PSP.exe.config
+D:\study\4_course_1_sem\network_app\l5\Lab5PSP\bin\Debug\Lab5PSP.exe
+D:\study\4_course_1_sem\network_app\l5\Lab5PSP\bin\Debug\Lab5PSP.pdb
+D:\study\4_course_1_sem\network_app\l5\Lab5PSP\obj\Debug\Lab5PSP.csprojAssemblyReference.cache
+D:\study\4_course_1_sem\network_app\l5\Lab5PSP\obj\Debug\Lab5PSP.csproj.CoreCompileInputs.cache
+D:\study\4_course_1_sem\network_app\l5\Lab5PSP\obj\Debug\Lab5PSP.exe
+D:\study\4_course_1_sem\network_app\l5\Lab5PSP\obj\Debug\Lab5PSP.pdb

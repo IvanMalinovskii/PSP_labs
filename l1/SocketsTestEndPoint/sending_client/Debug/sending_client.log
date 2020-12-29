@@ -1,0 +1,6 @@
+﻿  sending_client.cpp
+D:\study\4_course_1_sem\network_app\SocketsTestEndPoint\sending_client\sending_client.cpp(15,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\study\4_course_1_sem\network_app\SocketsTestEndPoint\sending_client\sending_client.cpp(25,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\study\4_course_1_sem\network_app\SocketsTestEndPoint\sending_client\sending_client.cpp(40,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\study\4_course_1_sem\network_app\SocketsTestEndPoint\sending_client\sending_client.cpp(76,23): warning C4018: <: несоответствие типов со знаком и без знака
+  sending_client.vcxproj -> D:\study\4_course_1_sem\network_app\SocketsTestEndPoint\Debug\sending_client.exe
